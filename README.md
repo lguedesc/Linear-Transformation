@@ -5,8 +5,6 @@ It demonstrates how different transformations (extension, compression, shear, ro
 
 The code uses [NumPy](https://numpy.org) for numerical operations and [Matplotlib](https://matplotlib.org) for visualization.  
 
----
-
 ## ✨ Features
 - Plot structured grids with clear borders and corner markers.
 - Apply custom 2×2 transformation matrices to grids.
@@ -20,8 +18,6 @@ The code uses [NumPy](https://numpy.org) for numerical operations and [Matplotli
   - Rotation
 
 ![Transformed Grid Example](output.png)
-
----
 
 ## 📦 Requirements
 - Python ≥ 3.8  
